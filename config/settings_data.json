@@ -17,6 +17,11 @@
         "type": "shopify://apps/back-in-stock-restock-alerts/blocks/main/4bb73be2-b7c2-4870-949f-c528145452a3",
         "disabled": false,
         "settings": {}
+      },
+      "13759942015198248323": {
+        "type": "shopify://apps/willdesk-live-chat-helpdesk/blocks/helpdesk/fdb9f3d8-334c-44b1-86d1-03be979bbf8d",
+        "disabled": false,
+        "settings": {}
       }
     }
   }
